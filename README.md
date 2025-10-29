@@ -37,3 +37,4 @@
 # Автор
 Andrey Averkiev
 Инженер-исследователь международной научной группы TERS-team, Data Analyst / DevOps.
+Сайт научной группы: www.ters-team.com
